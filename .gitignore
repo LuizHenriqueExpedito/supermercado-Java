@@ -1,0 +1,14 @@
+# Eclipse / Java
+.project
+.classpath
+.settings/
+bin/
+target/
+*.class
+
+# IDEs
+.idea/
+*.iml
+
+# sistema
+.DS_Store
