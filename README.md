@@ -2,9 +2,9 @@
 
 ## Comparar uma determinada lista de compra de um cliente e fazer uma varredura comparativa em todos os supermercados disponibilizados dentro do programa.
 
-## Checagem por HashMap.
+# Versão 2.0
 
-## Funcionalidades adicionadas: 
+## Funcionalidades adicionadas : 
 
 1. Criação de novas lojas utilizando ***Construtores para instanciação dos objetos***, pois antes a criação de um HashMap se dava de forma manual.
 2. Opção para remover um determinado supermercado.
